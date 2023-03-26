@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everyone 👋
 
 # 💫 About Me:
 I'm currently student at Epitech technology<br>I like cats
