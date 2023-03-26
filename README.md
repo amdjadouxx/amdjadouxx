@@ -18,6 +18,9 @@ I'm currently student at Epitech technology<br>I like cats
 <img src="https://images7.memedroid.com/images/UPLOADED772/60297fe91382d.jpeg" width="512px"/>
 
 ---
+Credit of the image: https://www.memedroid.com/
+
 [![](https://visitcount.itsvg.in/api?id=amdjadouxx&icon=1&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
