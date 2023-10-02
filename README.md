@@ -1,7 +1,7 @@
 ### Hello everyone 👋
 
 # 💫 About Me:
-I'm currently student at Epitech technology<br>I like cats 
+I'm currently studying at Epitech technology<br>I like cats 🐱
 
 
 # 💻 Tech Stack:
