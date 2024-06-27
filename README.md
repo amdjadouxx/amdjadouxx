@@ -1,7 +1,9 @@
 ### Hello everyone 👋
 
 # 💫 About Me:
-I'm currently studying at Epitech technology<br>I like cats 🐱
+I am currently studying at EPITECH Technology, with a keen interest in Artificial Intelligence. <br>On my profile, you will find various Epitech projects, as well as additional projects that I have undertaken to satisfy my curiosity.<br><br>
+
+Feel free to explore my work and do not hesitate to contact me if needed. Enjoy!
 
 
 # 💻 Tech Stack:
