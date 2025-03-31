@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://amdjadouxx.vercel.app/](https://amdjadouxx.vercel.app/)
 
-- ⚡ Fun fact **I like learn new things, cats, and sports (muay thai, running, calistenics)**
+- ⚡ Fun fact **I like cars, cats, and sports (muay thai, running, calistenics)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
