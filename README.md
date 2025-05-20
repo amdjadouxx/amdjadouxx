@@ -19,7 +19,7 @@ Freelance passionné par **l’automatisation** et la **formation tech**, j’ai
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
 Besoin d’automatiser une tâche ou de former votre équipe ? **Demandez un diagnostic gratuit** :  
-📧 [amdjad.freelance@gmail.com](mailto:[amdjad.freelance@gmail.com)  
+📧 [amdjad.freelance@gmail.com](mailto:amdjad.freelance@gmail.com)  
 🌐 [Mon portfolio](https://amdjadouxx.vercel.app/)  
 🔗 [Mon LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
