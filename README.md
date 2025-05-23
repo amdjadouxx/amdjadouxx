@@ -6,7 +6,7 @@ Freelance passionné par **l’automatisation** et la **formation tech**, j’ai
 
 <!-- Section expliquant tes services avec des bénéfices clairs -->
 ## 🚀 Ce que je fais
-- **Automatisation** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n. *Exemple* : Automatisation d’un planning, gain de 8h/semaine.
+- **Automatisation** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n. *Exemple* : Automatisation de réponse d'email, gain de 8h/semaine.
 - **Formation tech** : Apprenez Python ou des outils no-code en quelques heures, avec des cours adaptés à vos besoins.
 - **Solutions numériques** : Scripts et workflows sur mesure pour booster votre productivité.
 
