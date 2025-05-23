@@ -19,13 +19,14 @@ Freelance passionné par **l’automatisation** et la **formation tech**, j’ai
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
 Besoin d’automatiser une tâche ou de former votre équipe ? **Demandez un diagnostic gratuit** :  
-📧 [amdjad.freelance@gmail.com](mailto:amdjad.freelance@gmail.com)  
-🌐 [Mon portfolio](https://www.byamdjad.com/)  
-🔗 [Mon LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
+📧 [email(mailto:amdjad.freelance@gmail.com)  
+🌐 [Portfolio](https://www.byamdjad.com/)
+🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx)
+🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
 <!-- Section fun fact pour garder une touche personnelle -->
 ## ⚡ Fun fact
-J’aime les **voitures**, les **chats**, et les sports comme le **muay thaï**, la **course à pied** et la **calisthénie**. Quand je ne code pas, je suis probablement en train d’optimiser ma routine d’entraînement !
+J’aime beaucoup l'**automobile**, les **animaux**, et le **sport** (**course à pied**, **calisthénie**, **boxe thailandaise**). 
 
 <!-- Section pour les liens sociaux, adaptés au format Markdown -->
 ## 🌍 Connectez-vous avec moi
