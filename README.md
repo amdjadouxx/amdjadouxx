@@ -13,7 +13,7 @@ Formé à **Epitech**, je transforme vos besoins en résultats concrets.
 
 <!-- Section mettant en avant tes projets existants -->
 ## 📂 Mes projets phares
-- **[Corewar](https://github.com/amdjadouxx/corewar)** : Jeu compétitif en C simulant une arène virtuelle, développé en équipe à Epitech.
+- **[Réponses Emails](https://github.com/amdjadouxx/auto_client_answer)** : Ce workflow vous permet de répondre automatiquement à vos emails selon des documents (tel qu'un règlement).
 - **[Raytracer](https://github.com/amdjadouxx/raytracer)** : Projet de rendu 3D en C++, démontrant des compétences en optimisation.
 - **Projets à venir** : Automatisations Python et workflows n8n pour TPE (bientôt disponibles, suivez-moi pour les découvrir !)
 
