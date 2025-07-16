@@ -2,12 +2,13 @@
 # 👋 Bonjour, je suis Amdjad
 
 <!-- Sous-titre positionnant ton expertise et ton audience cible -->
-Freelance passionné par **l’automatisation** et la **formation tech**, j’aide les **TPE** et **indépendants** à **gagner du temps** et à **maîtriser la tech** grâce à des solutions sur mesure (Python, n8n, outils no-code). Formé à **Epitech**, je transforme vos besoins en résultats concrets.
+Freelance passionné par **l’automatisation**, j’aide les **TPE** et **indépendants** à **gagner du temps** grâce à des solutions sur mesure (Python, n8n, outils no-code, etc...). 
+
+Formé à **Epitech**, je transforme vos besoins en résultats concrets.
 
 <!-- Section expliquant tes services avec des bénéfices clairs -->
 ## 🚀 Ce que je fais
-- **Automatisation** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n. *Exemple* : Automatisation de réponse d'email, gain de 8h/semaine.
-- **Formation tech** : Apprenez Python ou des outils no-code en quelques heures, avec des cours adaptés à vos besoins.
+- **Automatisation et Système d'exploitation IA** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n. *Exemple* : Automatisation de réponse d'email, gain de 6h/semaine.
 - **Solutions numériques** : Scripts et workflows sur mesure pour booster votre productivité.
 
 <!-- Section mettant en avant tes projets existants -->
@@ -26,7 +27,7 @@ Besoin d’automatiser une tâche ou de former votre équipe ? **Demandez un dia
 
 <!-- Section fun fact pour garder une touche personnelle -->
 ## ⚡ Fun fact
-J’aime beaucoup l'**automobile**, les **animaux**, et le **sport** (**course à pied**, **calisthénie**, **boxe thailandaise**). 
+J’aime beaucoup l'**automobile**, les **animaux**, et le **sport** (**course à pied**, **calisthénie**). 
 
 <!-- Section pour les liens sociaux, adaptés au format Markdown -->
 ## 🌍 Connectez-vous avec moi
