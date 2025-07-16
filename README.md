@@ -2,24 +2,29 @@
 # 👋 Bonjour, je suis Amdjad
 
 <!-- Sous-titre positionnant ton expertise et ton audience cible -->
-Freelance passionné par **l’automatisation**, j’aide les **TPE** et **indépendants** à **gagner du temps** grâce à des solutions sur mesure (Python, n8n, outils no-code, etc...). 
+Freelance passionné par **l’automatisation**, j’aide les **TPE** et **indépendants** à **gagner du temps** grâce à des solutions sur mesure (Python, n8n, outils no-code, etc...).
 
 Formé à **Epitech**, je transforme vos besoins en résultats concrets.
 
 <!-- Section expliquant tes services avec des bénéfices clairs -->
 ## 🚀 Ce que je fais
-- **Automatisation et Système d'exploitation IA** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n. *Exemple* : Automatisation de réponse d'email, gain de 6h/semaine.
+- **Automatisation et Système d'exploitation IA** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec Python et n8n.
+
+- **Spécialiste IA** Création de modèles IA sur mesures (machine learning, Deep learning) et expertise en Data Science (formé par DataCamp)
+
+*Exemple* : Automatisation de réponse d'email, gain de 6h/semaine.
 - **Solutions numériques** : Scripts et workflows sur mesure pour booster votre productivité.
 
 <!-- Section mettant en avant tes projets existants -->
 ## 📂 Mes projets phares
 - **[Réponses Emails](https://github.com/amdjadouxx/auto_client_answer)** : Ce workflow vous permet de répondre automatiquement à vos emails selon des documents (tel qu'un règlement).
 - **[Raytracer](https://github.com/amdjadouxx/raytracer)** : Projet de rendu 3D en C++, démontrant des compétences en optimisation.
-- **Projets à venir** : Automatisations Python et workflows n8n pour TPE (bientôt disponibles, suivez-moi pour les découvrir !)
+- **Projets en cours** : 
+Projets IA Python et workflows n8n pour TPE
 
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
-Besoin d’automatiser une tâche ou de former votre équipe ? **Demandez un diagnostic gratuit** :  
+Besoin d’automatiser une tâche ou d'un spécialiste IA ? **Demandez un diagnostic gratuit** :  
 📧 [email](mailto:amdjad.freelance@gmail.com)  
 🌐 [Portfolio](https://www.byamdjad.com/)
 🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx)
