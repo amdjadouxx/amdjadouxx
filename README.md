@@ -29,7 +29,7 @@ Projets IA Python et workflows n8n pour TPE
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
 Besoin d’automatiser une tâche ou d'un spécialiste IA ? **Demandez un diagnostic gratuit** :  
-📧 [Email_Responder](mailto:amdjad.freelance@gmail.com)  
+📧 [Email](mailto:amdjad.freelance@gmail.com)  
 🌐 [Portfolio](https://www.byamdjad.com/)
 🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx)
 🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
