@@ -47,5 +47,5 @@ Besoin d’automatiser une tâche ou d'un spécialiste IA ? **Demandez un diagno
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdjadouxx&show_icons=true&locale=en" alt="amdjadouxx" /></p>
 
 <!-- Section fun fact pour garder une touche personnelle -->
-## ⚡ Fun fact
+## ⚡ Fun Facts
 J’aime beaucoup l'**automobile**, les **animaux**, et le **sport**. 
