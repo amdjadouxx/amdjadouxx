@@ -15,7 +15,7 @@ Formé à **Epitech**, je transforme vos besoins en résultats concrets.
 - **Expérimentations** : Petits projets expérimentaux pour compléter mes veilles techniques.
 
 *Exemple* : Automatisation de réponse d'email, gain de 6h/semaine.
-- **Solutions numériques** : Scripts et workflows sur mesure pour booster votre productivité.
+- **Solutions numériques** : Solutions sur mesure pour booster votre productivité.
 
 <!-- Section mettant en avant tes projets existants -->
 ## 📂 Quelques projets intéressants
