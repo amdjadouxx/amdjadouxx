@@ -32,10 +32,6 @@ Besoin d’automatiser une tâche ou d'un spécialiste IA ? **Demandez un diagno
 🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx)
 🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
-<!-- Section fun fact pour garder une touche personnelle -->
-## ⚡ Fun fact
-J’aime beaucoup l'**automobile**, les **animaux**, et le **sport**. 
-
 <!-- Section pour les liens sociaux, adaptés au format Markdown -->
 ## 🌍 Connectez-vous avec moi
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
@@ -49,3 +45,7 @@ J’aime beaucoup l'**automobile**, les **animaux**, et le **sport**.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdjadouxx&show_icons=true&locale=en&layout=compact" alt="amdjadouxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdjadouxx&show_icons=true&locale=en" alt="amdjadouxx" /></p>
+
+<!-- Section fun fact pour garder une touche personnelle -->
+## ⚡ Fun fact
+J’aime beaucoup l'**automobile**, les **animaux**, et le **sport**. 
