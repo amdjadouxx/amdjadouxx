@@ -18,10 +18,10 @@ Formé à **Epitech**, je transforme vos besoins en résultats concrets.
 - **Solutions numériques** : Scripts et workflows sur mesure pour booster votre productivité.
 
 <!-- Section mettant en avant tes projets existants -->
-## 📂 Mes projets phares
+## 📂 Quelques projets intéressants
 - **[Answer Emails](https://github.com/amdjadouxx/auto_client_answer)** : Ce workflow n8n vous permet de répondre automatiquement à vos emails selon une base de documents.
 - **[My_Neural_Network](https://github.com/amdjadouxx/my_neural_network)** : Projet de création de ma propre librairie pour créer des réseaux neuronaux.
--  **[My_Neural_Network](https://github.com/amdjadouxx/BONES_BREAK_DETECTION)** : Détection automatique de fractures osseuses à partir de radiographies médicales utilisant YOLOv8.
+-  **[BONES_BREAK_DETECTION](https://github.com/amdjadouxx/BONES_BREAK_DETECTION)** : Détection automatique de fractures osseuses à partir de radiographies médicales utilisant YOLOv8.
 -  **[Personal_Ai_Agent](https://github.com/amdjadouxx/personal_ai_agent)** : Un agent IA "fait maison" qui utilise Ollama pour fournir des informations météorologiques en langage naturel.
 - **Projets en cours** : 
 Projets IA Python et workflows n8n pour TPE
