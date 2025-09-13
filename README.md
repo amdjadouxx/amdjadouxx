@@ -33,7 +33,7 @@ Projets IA Python et workflows n8n pour TPE, Expérimentations
 Besoin d’automatiser une tâche ou d'un spécialiste IA ? 
 
 **Demandez un diagnostic gratuit** :  
-📧 [Email](mailto:amdjad.freelance@gmail.com)  🌐 [Portfolio](https://www.byamdjad.com/)  🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx) 🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
+📧 [Email](mailto:amdjad.freelance@gmail.com)  [RDV](https://flowpyler.vercel.app/)  🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx) 🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
 <!-- Section pour les liens sociaux, adaptés au format Markdown -->
 ## 🌍 Connectez-vous avec moi
