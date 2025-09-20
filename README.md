@@ -31,6 +31,8 @@ Prenez rendez vous ici:
 - 
 - **Projets en cours** : 
 Projets IA Python et workflows n8n pour TPE, Expérimentations
+- **Ma chaîne YouTube :**
+[Ici](https://youtube.com/@flowbyamdjad)
 
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
