@@ -36,10 +36,10 @@ Projets IA Python et workflows n8n pour TPE, Expérimentations
 
 <!-- Section contact avec un CTA fort -->
 ## 📫 Contactez-moi
-Besoin d’automatiser une tâche ou d'un spécialiste IA ? 
+Besoin d’automatiser une tâche ou d'un spécialiste IA ?
 
 **Demandez un diagnostic gratuit** :  
-📧 [Email](mailto:amdjad.freelance@gmail.com)  [RDV](https://flowpyler.vercel.app/)  🔗 [Fiverr](https://fr.fiverr.com/amdjadouxx) 🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
+📧 [Email](mailto:amdjad.freelance@gmail.com)  [RDV](https://flowpyler.vercel.app/)  🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
 <!-- Section pour les liens sociaux, adaptés au format Markdown -->
 ## 🌍 Connectez-vous avec moi
@@ -50,7 +50,3 @@ Besoin d’automatiser une tâche ou d'un spécialiste IA ?
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amdjadouxx&show_icons=true&locale=en&layout=compact" alt="amdjadouxx" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amdjadouxx&show_icons=true&locale=en" alt="amdjadouxx" /></p>
-
-<!-- Section fun fact pour garder une touche personnelle -->
-## ⚡ Fun Facts
-J’aime beaucoup l'**automobile**, les **animaux**, et le **sport**. 
