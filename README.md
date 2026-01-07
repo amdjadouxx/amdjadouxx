@@ -1,5 +1,5 @@
 <!-- Titre principal en Markdown -->
-# 👋 Bonjour, je suis Amdjad
+### 👋 Bonjour, je suis Amdjad
 
 <!-- Sous-titre positionnant ton expertise et ton audience cible -->
 Freelance passionné par **l’automatisation**, j’aide les **TPE** et **indépendants** à **gagner du temps** grâce à des solutions sur mesure (Python, n8n, outils no-code, etc...).
