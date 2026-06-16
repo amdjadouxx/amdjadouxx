@@ -1,45 +1,30 @@
-<!-- Titre principal en Markdown -->
-### 👋 Bonjour, je suis Amdjad
+### 👋 Hi, I'm Amdjad
 
-<!-- Sous-titre positionnant ton expertise et ton audience cible -->
-Freelance passionné par **l’automatisation**, j’aide les **TPE** et **indépendants** à **gagner du temps** grâce à des solutions sur mesure (Python, n8n, outils no-code, etc...).
+**Tech4 Student at Epitech | AI Builder & ML Engineer**
 
-Je transforme vos besoins en résultats concrets.
+I am a developer deeply passionate about the state-of-the-art in Artificial Intelligence, LLM engineering, and machine learning fundamentals. My philosophy is simple: understand the theory by building things *from scratch*, and apply these concepts to optimize inference, design complex architectures, and create autonomous agents.
 
-<h3> Prenez rendez vous: </h1>
+I document my learnings, experiments, and "build in public" journey on [my YouTube channel](https://youtube.com/@flowbyamdjad).
 
-[EN CLIQUANT ICI](https://flowpyler.cloud/)
+## 🧠 What I Explore & Build
+- **LLM Optimization & Inference**: Model quantization, GGUF conversion, and optimizing local GPU VRAM usage.
+- **Deep Learning Architectures**: Rebuilding core mechanics from scratch, experimenting with Mixture of Experts (MoE), and Spiking Neural Networks (SNN).
+- **Agentic Workflows & RL**: Implementing Reinforcement Learning (PPO) for autonomous agents and orchestrating local LLMs (Ollama) with complex RAG pipelines.
 
-<!-- Section expliquant tes services avec des bénéfices clairs -->
-## 🚀 Ce que je fais
-- **Automatisation et Système d'exploitation IA** : Simplifiez vos tâches répétitives (emails, calendriers, gestion de données) avec **N8N**.
+## 📂 Featured Technical Projects
 
-- **Spécialisation IA** : Création de modèles IA sur mesures (machine learning, Deep learning) et expertise en Data Science
+- **[llm-optimizer](https://github.com/amdjadouxx/llm-optimizer)** A CLI pipeline to quantize any HuggingFace model for local GPU inference. Features automatic VRAM detection, GGUF conversion, and `lm-eval` benchmarking.
+- **[MINI_MOE_DEMO](https://github.com/amdjadouxx/MINI_MOE_DEMO)** An experimental implementation of the Mixture of Experts (MoE) concept, providing clear visualization of routing and expert activation within artificial neural networks.
+- **[PPO-Racetrack-Curriculum-Reinforcement-Learning](https://github.com/amdjadouxx/PPO-Racetrack-Curriculum-Reinforcement-Learning)** An autonomous racing agent that learns to drive from zero using Proximal Policy Optimization (PPO) and curriculum learning.
+- **[my_neural_network](https://github.com/amdjadouxx/my_neural_network)** My own neural network library built entirely from scratch using NumPy. A fundamental project to deeply master mathematical mechanics and backpropagation without relying on standard frameworks.
+- **[physlint](https://github.com/amdjadouxx/physlint)** A lightweight latent-space model (SVD + ridge regression) that learns what "normal" video looks like from a training set to automatically detect anomalies in new videos.
 
-- **Expérimentations** : Petits projets expérimentaux pour compléter mes veilles techniques.
+## 📫 Let's Connect
+I'm always open to discussing AI architectures, inference optimization, or my latest experiments.
 
-- **Solutions numériques** : Solutions sur mesure pour booster votre productivité.
-*Exemple* : Automatisation de réponse d'email, gain de 6h/semaine.
+📧 [amdjad.freelance@gmail.com](mailto:amdjad.freelance@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 
-<!-- Section mettant en avant tes projets existants -->
-## 📂 Quelques projets intéressants
-- **[Answer Emails](https://github.com/amdjadouxx/auto_client_answer)** : Ce workflow n8n vous permet de répondre automatiquement à vos emails selon une base de documents.
-- **[My_Neural_Network](https://github.com/amdjadouxx/my_neural_network)** : Création de ma propre librairie pour créer des réseaux neuronaux.
-- **[BONES_BREAK_DETECTION](https://github.com/amdjadouxx/BONES_BREAK_DETECTION)** : Détection automatique de fractures osseuses à partir de radiographies médicales utilisant YOLOv8.
-- **[Personal_Ai_Agent](https://github.com/amdjadouxx/personal_ai_agent)** : Un agent IA "fait maison" qui utilise Ollama pour fournir des informations météorologiques en langage naturel.
-
-- **Ma chaîne YouTube :**
-[En cliquant ici](https://youtube.com/@flowbyamdjad)
-
-<!-- Section contact avec un CTA fort -->
-## 📫 Contactez-moi
-Besoin d’automatiser une tâche ou d'un spécialiste IA ?
-
-**Demandez un diagnostic gratuit** :  
-📧 [Email](mailto:amdjad.freelance@gmail.com)  [RDV](https://flowpyler.vercel.app/)  🔗 [LinkedIn](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
-
-<!-- Section pour les liens sociaux, adaptés au format Markdown -->
-## 🌍 Connectez-vous avec moi
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />](https://linkedin.com/in/amdjad-ahmod-ali-92023b258)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />](https://instagram.com/amdjadouxx)
 [<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />](https://discord.gg/632547811392618500)
